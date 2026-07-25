@@ -11,4 +11,4 @@ A secure and gas-optimized Non-Fungible Token (NFT) smart contract implemented u
 - Solidity (^0.8.20)
 - OpenZeppelin Contracts
 - Remix IDE / Hardhat
-- 
+
